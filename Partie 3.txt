@@ -21,3 +21,4 @@ Rendement sur 5 m proche de 100%
 
     On parle de couplage inductif lorsque dans deux cables proches un courant dans l'un induit un courant dans l'autre.
     Cet etat peut etre non-intenionel , appelé Diaphonie, et essayant d'etre reduit , mais il peut aussi etre voulu , surtout dans le cas du chargement de brosse a dents ou de telephones sans fil mais a de tres proches distances
+    // A rajouter -> principe fondamental des transformateurs electrique
