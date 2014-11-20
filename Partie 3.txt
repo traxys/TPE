@@ -1,4 +1,4 @@
-Avantages majeurs des fils : Rendement energetique tres grand par rapport au technologies presentées apres. Inconvenient majeur : /* couteux a installer sur de grandes distances */ , peu pratique , Et par extension peu esthetique si non caché dans les murs / dans des gaines.
+1) Un peu de cables - Avantages majeurs des fils : Rendement energetique tres grand par rapport au technologies presentées apres. Inconvenient majeur : /* couteux a installer sur de grandes distances */ , peu pratique , Et par extension peu esthetique si non caché dans les murs / dans des gaines.
 
 Comment fonctionne un cable ? Deplacement d’electrons a travers un reseau d’atomes ayant un electron libre
     Propriété des atomes conducteurs :
@@ -16,3 +16,8 @@ Conclusion -> ?
 
 Cout d’un métre de cuivre : 2€ au m coupe de 25 mm²
 Rendement sur 5 m proche de 100%
+
+2) Couplage inductif
+
+    On parle de couplage inductif lorsque dans deux cables proches un courant dans l'un induit un courant dans l'autre.
+    Cet etat peut etre non-intenionel , appelé Diaphonie, et essayant d'etre reduit , mais il peut aussi etre voulu , surtout dans le cas du chargement de brosse a dents ou de telephones sans fil mais a de tres proches distances
