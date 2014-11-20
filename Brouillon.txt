@@ -1,0 +1,43 @@
+Theme : Transmission d’electicité
+
+Problematique -> Peut-on transmettre de l’électricité sans fil ?
+
+I - Electricté: Definition, Histoire et Utilisation.
+
+    1)Petit Historique
+        A)L’électricité jusqu’aux grand inventeurs
+        B) Gds progrès/ Gds inventions
+C)L’électricité dans le monde moderne
+    
+    2)Definition de l’electricité
+        A)Un flot d’électrons // def tension intensité, circuits et mouvmt elec
+        B)Types d’électricité  // alternatif continu, propriétés
+
+L’utilisation actuelle de l’électricité
+        A))la génération de l’électricité  //éolienneblaise + génération=>cp  magnétique, transition vers la partie II
+        B)La transmission filaire et leurs limites // préz problématique résistance des fils
+
+II - Rapport entre Electricité et champs magnétiques
+
+    1)Un champ magnétique: kékécé?
+
+    2)Où en en trouve et comment on les utilise actuellement
+
+    3)Comment l’un mène à l’autre
+
+III - Transmissions de l’electricité 
+
+http://electronics.howstuffworks.com/everyday-tech/wireless-power2.htm
+http://www.fastcompany.com/1128055/wireless-electricity-here-seriously
+
+
+Filiaires : Conductance des métaux
+
+Couplage Inductif (http://en.wikipedia.org/wiki/Inductive_coupling)
+
+Recuperation d’energie par les ondes radio ( http://www.mouser.fr/applications/rf_energy_harvesting/ )
+
+4 )Resonnances Magnétiques 
+
+http://www.sciencemag.org/content/317/5834/83.full
+http://www.science20.com/news_articles/tesla_on_the_horizon_wireless_power_now_works_over_15_feet-134424

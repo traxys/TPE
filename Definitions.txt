@@ -1,0 +1,2 @@
+Champ Vectoriel :
+En mathématiques, un champ de vecteurs ou champ vectoriel est une fonction qui associe un vecteur à chaque point d'un espace euclidien (un plan / un espace) ou plus généralement d'une variété différentielle1.
