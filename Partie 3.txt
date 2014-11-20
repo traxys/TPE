@@ -1,41 +1,18 @@
-Avantages majeurs des fils : Rendement energetique tres grand par rapport au technologies presentées apres. Inconvenient majeur : /* couteux a installer sur de grandes distances */ , peu pratique , Et par extension peu esthetique si non caché dans les murs / dans des gaines.
+Avantages majeurs des fils : Rendement energetique tres grand par rapport au technologies presentÃ©es apres. Inconvenient majeur : /* couteux a installer sur de grandes distances */ , peu pratique , Et par extension peu esthetique si non cachÃ© dans les murs / dans des gaines.
 
-Comment fonctionne un cable ? Deplacement d’electrons a travers un reseau d’atomes ayant un electron libre
-    Propriété des atomes conducteurs :
-        Resistance && Conductivité
+Comment fonctionne un cable ? Deplacement dâ€™electrons a travers un reseau dâ€™atomes ayant un electron libre
+    PropriÃ©tÃ© des atomes conducteurs :
+        Resistance && ConductivitÃ©
 
-    Le rendement d’un cable est donc défini par le materiel dont il est constitué 
+    Le rendement dâ€™un cable est donc dÃ©fini par le materiel dont il est constituÃ© 
 
         Petit recapitulatif:
 
-Materiel
-Resistivité electrique
-Ohm.m
-Prix au Kilo
-
-
-Cuivre
-17*10^-9
-1.08 €
-
-
-Or
-22*10^-9
-29 878.59 €
-
-
-Fer
-104*10^-9
-0.07 € (Minerai)
-
-
-Argent
-15*10^-9
-402.48 €
-
-
+Materiel                Cuivre      Or          Fer             Argent
+ResistivitÃ© electrique  17*10^-9    22*10^-9    104*10^-9       15*10^-9
+Prix au Kilo            1.08â‚¬       29 878.59â‚¬  0.07â‚¬(Minerai)  402.48 â‚¬
 
 Conclusion -> ?
 
-Cout d’un métre de cuivre : 2€ au m coupe de 25 mm²
+Cout dâ€™un mÃ©tre de cuivre : 2â‚¬ au m coupe de 25 mmÂ²
 Rendement sur 5 m proche de 100%
