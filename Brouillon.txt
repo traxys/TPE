@@ -1,43 +1,43 @@
-Theme : Transmission d’electicité
+Theme : Transmission dâ€™electicitÃ©
 
-Problematique -> Peut-on transmettre de l’électricité sans fil ?
+Problematique -> Peut-on transmettre de lâ€™Ã©lectricitÃ© sans fil ?
 
-I - Electricté: Definition, Histoire et Utilisation.
+I - ElectrictÃ©: Definition, Histoire et Utilisation.
 
-    1)Petit Historique
-        A)L’électricité jusqu’aux grand inventeurs
-        B) Gds progrès/ Gds inventions
-C)L’électricité dans le monde moderne
+    1) Petit Historique
+        A)Lâ€™Ã©lectricitÃ© jusquâ€™aux grand inventeurs
+        B) Gds progrÃ¨s/ Gds inventions
+        C)Lâ€™Ã©lectricitÃ© dans le monde moderne
     
-    2)Definition de l’electricité
-        A)Un flot d’électrons // def tension intensité, circuits et mouvmt elec
-        B)Types d’électricité  // alternatif continu, propriétés
+    2) Definition de lâ€™electricitÃ©
+        A)Un flot dâ€™Ã©lectrons // def tension intensitÃ©, circuits et mouvmt elec
+        B)Types dâ€™Ã©lectricitÃ©  // alternatif continu, propriÃ©tÃ©s
 
-L’utilisation actuelle de l’électricité
-        A))la génération de l’électricité  //éolienneblaise + génération=>cp  magnétique, transition vers la partie II
-        B)La transmission filaire et leurs limites // préz problématique résistance des fils
+    3) Lâ€™utilisation actuelle de lâ€™Ã©lectricitÃ©
+        A))la gÃ©nÃ©ration de lâ€™Ã©lectricitÃ©  //Ã©olienneblaise + gÃ©nÃ©ration=>cp  magnÃ©tique, transition vers la partie II
+        B)La transmission filaire et leurs limites // prÃ©z problÃ©matique rÃ©sistance des fils
 
-II - Rapport entre Electricité et champs magnétiques
+II - Rapport entre ElectricitÃ© et champs magnÃ©tiques
 
-    1)Un champ magnétique: kékécé?
+    1)Un champ magnÃ©tique: kÃ©kÃ©cÃ©?
 
-    2)Où en en trouve et comment on les utilise actuellement
+    2)OÃ¹ en en trouve et comment on les utilise actuellement
 
-    3)Comment l’un mène à l’autre
+    3)Comment lâ€™un mÃ¨ne Ã  lâ€™autre
 
-III - Transmissions de l’electricité 
+III - Transmissions de lâ€™electricitÃ© 
 
-http://electronics.howstuffworks.com/everyday-tech/wireless-power2.htm
-http://www.fastcompany.com/1128055/wireless-electricity-here-seriously
+    http://electronics.howstuffworks.com/everyday-tech/wireless-power2.htm
+    http://www.fastcompany.com/1128055/wireless-electricity-here-seriously
 
 
-Filiaires : Conductance des métaux
+    1) Filiaires : Conductance des mÃ©taux
 
-Couplage Inductif (http://en.wikipedia.org/wiki/Inductive_coupling)
+    2) Couplage Inductif (http://en.wikipedia.org/wiki/Inductive_coupling)
 
-Recuperation d’energie par les ondes radio ( http://www.mouser.fr/applications/rf_energy_harvesting/ )
+    3) ecuperation dâ€™energie par les ondes radio ( http://www.mouser.fr/applications/rf_energy_harvesting/ )
 
-4 )Resonnances Magnétiques 
+    4) Resonnances MagnÃ©tiques 
 
 http://www.sciencemag.org/content/317/5834/83.full
 http://www.science20.com/news_articles/tesla_on_the_horizon_wireless_power_now_works_over_15_feet-134424
