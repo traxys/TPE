@@ -15,12 +15,13 @@ II - Transmissions de l’electricité
 	A)Technologies existantes - bref resumé technique / small pro /cons
     http://electronics.howstuffworks.com/everyday-tech/wireless-power2.htm
     http://www.fastcompany.com/1128055/wireless-electricity-here-seriously
-		1) Filiaires : Conductance des métaux
+	1) Filiaires : Conductance des métaux
     	2) Couplage Inductif (http://en.wikipedia.org/wiki/Inductive_coupling)
-    	3) ecuperation d’energie par les ondes radio ( http://www.mouser.fr/applications/rf_energy_harvesting/ )
-    	4) Resonnances Magnétiques 
+    	3) Resonnances Magnétiques 
 			http://www.sciencemag.org/content/317/5834/83.full
 			http://www.science20.com/news_articles/tesla_on_the_horizon_wireless_power_now_works_over_15_feet-134424
 	B)Prenstation technique detaillée de la technologie choisie
 	
 	C) Liste des avantages suivie des limites du syteme technique choisi
+	
+	D) Transmission d'energie ( pas directement d'electricité)
