@@ -17,6 +17,7 @@ II - Transmissions de l’electricité
     http://www.fastcompany.com/1128055/wireless-electricity-here-seriously
 	1) Filiaires : Conductance des métaux
     	2) Couplage Inductif (http://en.wikipedia.org/wiki/Inductive_coupling)
+    	      http://www.learnemc.com/tutorials/Magnetic_Field_Coupling/H-Field_Coupling.html
     	3) Resonnances Magnétiques ------> technolgie specifique issue du coplage inductif mais non = a celui ci
 			http://www.sciencemag.org/content/317/5834/83.full
 			http://www.science20.com/news_articles/tesla_on_the_horizon_wireless_power_now_works_over_15_feet-134424
