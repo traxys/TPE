@@ -15,12 +15,11 @@ Grands progrès et grande invention
 1_ la naissance du paratonerre -> Benjamin Franklin 
 2_ les débuts de l’électricité
 3_ William Gilbert,  l'intendant Du Fay,  Charles Coulomb, Benjamin Franklin
-4_ en 1800 l'ityalien Volta invente une batterie mais on ne savait pas a quoi ca servait
+4_ en 1800 l'italiuen Volta invente une batterie mais on n'en avait l'utilité
 5_ thales de millet decouvre en VI eme s av JC la propriete electrique de l'ambre (http://www.histoire-pour-tous.fr/inventions/309-invention-electricite.html)
 6_ mise en place des centrales à charbon par T. Edison --> 2eme revolution industrielle
 
 obtention de l'electricité: 
--> par frottement
 -> par contact avec un objet ou un phenomene electrisé
 ->
 
