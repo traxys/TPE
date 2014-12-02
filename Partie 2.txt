@@ -21,4 +21,8 @@ Rendement sur 5 m proche de 100%
 
     On parle de couplage inductif lorsque dans deux cables proches un courant dans l'un induit un courant dans l'autre.
     Cet etat peut etre non-intenionel , appelé Diaphonie, et essayant d'etre reduit , mais il peut aussi etre voulu , surtout dans le cas du chargement de brosse a dents ou de telephones sans fil mais a de tres proches distances
-    // A rajouter -> principe fondamental des transformateurs electrique
+    Le couplage inductif est actuellement appliqué dans le chargment de brosses a dents ellecriques par exemple , mais aussi dans le fonctionnement des transformateurs
+    Cette technolgie est deja un peu developpée mais elle a l'inconvéniant de n'etre tres efiicae que sur de faible distances
+            Utilisation dans le cadre de notre problematique : Charger des telecphone sans les brancher , en les posant juste sur une plaque
+            
+    Ce principe a été enoncé en 1831 par Faraday , mais n'a été que tres recemment appliqué dans le cadre des transmission d'electricité non filiares
