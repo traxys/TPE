@@ -1,7 +1,7 @@
 A)  L’électricité jusqu’au grand inventeurs:
 
--> eclairs -> feu pour les hommes préhistoriques
--> friction entre une peau et un objet -> electricité statique
+-> eclairs -> éclair: supposément une charge électrostatique qui se crée par l'entrechoquement entre les gouttes et cristaux dans les nuages. air sert isolant jusqu'à différence potentiel atteint(très gd), puis éclair. si les gouttes tombent la terre est chargée négativement, dc éclair sur le sol. Lélectricité, en descendant, crée un champ magnétique qui à son tour crée une surpression des gaz à l'intérieur de l'éclair, ce qui allié à la chaleur produite par le passage de l'éclair provoque une brusque expansuion de l'ai, ergo tonnerre. cette chaleur fut la première utilisation de l'électricité par l'homme, avec l'utilisation du feufeu pour les hommes préhistoriques
+-> friction entre une peau et un objet ->   loi coulomb, crée entre deux surfaces qui se séparent(dépend du maté, de ses prop phy et élec, température et humi air) plus vitesse ou puissance séparation est gde, plus charge forteelectricité statique
 -> ambre jaune -> propriété electrostatique
 -> WIKIPEDIA
 -> forme de vie électrique (poisson électrique)
