@@ -2,23 +2,26 @@ Theme : Transmission d’electicité
 
 Problematique -> Peut-on transmettre de l’électricité sans fil ?
 
-I - Electricté: Definition, Histoire et Utilisation.
+I - Electricté: Definition, Histoire et Utilisation. // Presentation autor de L'elec
 
     1) Petit Historique
 
     2) SUr quoi a t'on inové en electricité
+
+II - Transmissions de l’electricité //Demarche de projet
 	
-    3) Pourquoi la problematique ?
+	
+	//Comment mieux fairte qu'avec les cables --> dans ceraines situations
+	
+III- Prenstation de la technologie Avec les limites et une maquette
 
-II - Transmissions de l’electricité 
-
-	A)Technologies existantes - bref resumé technique / small pro /cons
+A)Technologies existantes - bref resumé technique / small pro /cons
     http://electronics.howstuffworks.com/everyday-tech/wireless-power2.htm
     http://www.fastcompany.com/1128055/wireless-electricity-here-seriously
 	1) Filiaires : Conductance des métaux
     	2) Couplage Inductif (http://en.wikipedia.org/wiki/Inductive_coupling)
     	      http://www.learnemc.com/tutorials/Magnetic_Field_Coupling/H-Field_Coupling.html
-    	3) Resonnances Magnétiques ------> technolgie specifique issue du coplage inductif mais non = a celui ci
+    	3) Couplage par resonace magnetique ------> technolgie specifique issue du coplage inductif mais non = a celui ci
 			http://www.sciencemag.org/content/317/5834/83.full
 			http://www.science20.com/news_articles/tesla_on_the_horizon_wireless_power_now_works_over_15_feet-134424
 	B)Prenstation technique detaillée de la technologie choisie
