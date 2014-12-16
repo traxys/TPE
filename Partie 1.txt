@@ -42,10 +42,17 @@ Invention de la pile:
   -
 
 
+C) transmettre de l'électricité sans fils (http://branchez-vous.com/2014/03/31/de-lelectricite-sans-fil-pour-bientot/)
+
+- 1825 decouverte de l'électro-aimant par william sturgeon
+-1835 decouverte de l'inductioin par farraday
+-1836 Nicholas Joseph Callan créer la première vertitable transmission d'électricité sans fil grace à une bobine à induction.
 
 
 
-                      2) sur quoi a-t-on inové en elec ?
+
+
+              2) sur quoi a-t-on inové en elec ?
     
     
     L'electrcité n'a pas evolué, c'est son utilisation par nous autres, humains, qui a changé.
@@ -62,18 +69,8 @@ Invention de la pile:
     B) les inovations sur l'utitlisation de l'electricité
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-  
+   
+
+
+
+
