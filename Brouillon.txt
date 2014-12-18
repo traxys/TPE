@@ -10,7 +10,7 @@ I - Electricté: Definition, Histoire et Utilisation. // Presentation autor de L
 
 II - Transmissions de l’electricité //Demarche de projet
 	
-	
+	dl TDC need
 	//Comment mieux fairte qu'avec les cables --> dans ceraines situations
 	
 III- Prenstation de la technologie Avec les limites et une maquette
