@@ -1,7 +1,8 @@
-\documentclass[12pt]{report}
+\documentclass[11pt]{report}
 \usepackage[utf8]{inputenc}
 \usepackage[frenchb]{babel}
 \usepackage[official]{eurosym}
+\usepackage{amsmath}
 %\usepackage{graphicx}%
 %\DeclareGraphicsExtensions{.pdf,.png,.jpg}%
 \begin{document}
@@ -31,11 +32,23 @@
 \subsection{Solution majoritaire actuelle : Les technoloogies cablées}
 	La solution de transmission d'electricité la plus utilisée au monde est sans contestation possible le cable electrique , ceci étant du à un faible coût (jusqu'a 1\$ le métre) , son très haut rendement puisque celui ci avoisine les 100\% sur les distances courtes avec de faibles puissances. En plus d'etre simple , elle n'est pas lourde en terme d'installation puisque les cables peuvent etre facilement mis dans les murs à la constuction d'un nouveau batiment, etre mis dans des gaines si l'on veut en rajouter ensuite et plus simplement on peut utiliser le systeme des prises pour les appareils temporaires et ponctuels. Grâce à ses avantages incontesables elle est devenue le standard , mais ceci entraîne un probleme non negligable qu'es la densité importante des cables electriques à proximité des appareils electroniques. %Ce texte est a ettofer avec des formules et autres explications plus détaillées sur les cables%
 	
-	Les matériau consituant les cables electriques sont generalement du cuivre pour les longues distances, mais dans les circuitis imprimé on peut utiliser l'or pour sa conductivité electrique immense , malgré son coût monstreux de l'ordre de la dizaine de millier d'euros le quart de kilo. Voici ici un tableau qui récapitule la conductivité de divers métaux plus ou moins utilisés dans les réseaux cablées.
-\begin{tabular}{ l | c | r }
-	Materiel & Resistivité électrique \Omega .m & Prix au Kilo \euro{} //
+	Les matériau consituant les cables electriques sont generalement du cuivre pour les longues distances, mais dans les circuitis imprimé on peut utiliser l'or pour sa conductivité electrique immense , malgré son coût monstreux de l'ordre de la dizaine de millier d'euros le demi kilo. Voici ici un tableau qui récapitule la conductivité de divers métaux plus ou moins utilisés dans les réseaux cablées.
+
+\begin{center}
+\begin{tabular}{| l | c | r |}
 	\hline
-	Cuivre && \(17
+	Materiel & Resistivité électrique en \( \Omega .m \) & Prix au Kilo \\
+	\hline
+	Cuivre & \(17 \times 10^{-9} \) & 1.08 \euro{}  \\
+	Or & \(22 \times 10^{-9} \) & 29878 \euro{}  \\
+	Fer & \(104 \times 10^{-9}\) & (Minerai de fer) 0.07 \euro{}  \\
+	Argent & \(15 \times 10^{-9}\) & 402 \euro{}  \\
+	\hline
+\end{tabular}
+\end{center}
+
+	Les cables ont néamoins un inconvenient majeur , qui reéside dans l'effet Joule , qui fait que lorsque un courant electrique passe a travers un cable il genere de l'energie thermique en fonction de l'intensité du courant le traversant et de la resistivité du matériau , régie par la premiere loi de Joule \( Q \propto I^2 \times R \times t \), où Q est la quantité de chaleur , I l'intensité et R la resistivité. Mais on utilise plus courramment la formule , suelment si la loi d'Ohm est applicable, \( P = I^2 \times R \) , et d'apres le tableau precedent on peut dire que les valeurs usuelles maximalles dans un environement domestique , ou l'intensité maximalle est de 16A , sont pour un fil de cuivre de \( 16^2 \times 10^{-9} = 4.352 \times 10^{-6}W \). Cette valeur n'est pas tres haute dans le cas d'une utilisation domestique , mais si le courant augmente cela peut commencer a poser des problemes liés a la chaleur.
+
 \end{tabular}
 \subsection{Une solution IPTS limitée : Le systeme de couplage magnetique par resonnace (CMRS)}
 \subsection{Une solution IPTS assez fiable : Une transmission utilisant des \{Dipole coils\}}
