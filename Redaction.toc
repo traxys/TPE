@@ -1,0 +1,17 @@
+\select@language {french}
+\contentsline {chapter}{\numberline {1}D\IeC {\'e}finition et Utilisation de l'electricit\IeC {\'e}}{2}
+\contentsline {section}{\numberline {1.1}Historique de l'electricit\IeC {\'e}}{2}
+\contentsline {section}{\numberline {1.2}Avanc\IeC {\'e}es technologiques et Utilisation}{2}
+\contentsline {chapter}{\numberline {2}Raisons de la transmission de l'electricit\IeC {\'e} par des solutions non cabl\IeC {\'e}es}{3}
+\contentsline {section}{\numberline {2.1}--TODO--}{3}
+\contentsline {chapter}{\numberline {3}Les technologies de transmissions d'electricit\IeC {\'e} : cabl\IeC {\'e}es et sans-fil}{4}
+\contentsline {section}{\numberline {3.1}Presentation des technologies pr\IeC {\'e}sentes}{4}
+\contentsline {subsection}{\numberline {3.1.1}Solution majoritaire actuelle : Les technoloogies cabl\IeC {\'e}es}{4}
+\contentsline {subsection}{\numberline {3.1.2}Une solution IPTS limit\IeC {\'e}e : Le systeme de couplage magnetique par resonnace (CMRS)}{5}
+\contentsline {subsection}{\numberline {3.1.3}Une solution IPTS assez fiable : Une transmission utilisant des \{Dipole coils\}}{5}
+\contentsline {section}{\numberline {3.2}--TODO--}{5}
+\contentsline {section}{\numberline {3.3}Avantages et limitations de --TODO--}{5}
+\contentsline {section}{\numberline {3.4}Technlogies alternatives pour transmetre de l'energie}{5}
+\contentsline {chapter}{\numberline {4}References et sources principales}{6}
+\contentsline {section}{\numberline {4.1}Articles scientifiques}{6}
+\contentsline {section}{\numberline {4.2}--Et les autres trucs--}{6}
