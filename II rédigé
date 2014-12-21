@@ -1,0 +1,56 @@
+
+analyse fonctionnelle: le produit est la trasmission d'électricité
+
+ciblons le besoin: transmettre de l'électricité avec fil
+                   transmettre de l'électricité sans fil
+
+
+    A) avec fil
+bête à corne: 
+-a qui rend-il service ? -> aux hommes
+-sur quoi agit-il ? -> sur tous les appareils électrique donc sur notre style de vie
+-dans quel but ? -> dans le but d'ameliorer notre niveau de vie, de nous aider dans nos taches journalières, de créer de la lmumière ou de l'énergie, à alimenter des moteurs
+
+diagramme des interactions: pieuvre
+ produit transmettre de l'électricité avec fil
+ fp1: transmettre de l'électricité pour faire fonctionner des appareils électriques/electronique
+ fc1: transmettre des données à des appareils electrique/électonique
+ fc2: alumer des appareils electriques/electronique, ou des moteurs.
+ fc3: créer des champs magnétiques très puissant
+ fc4: créer de la chaleur ou de la lumière (+ suspension magnétique et EMP et électroaiment et enceintes)
+ 
+ 
+ aventage d'une transmissions par cables:
+ -rendement très fort 
+ -grande portée
+ 
+ 
+ 
+ inconveniants:
+ -chauffe le cable donc rique de surchauffe et d'incedies et de coupure d'electricté ( cf effet joule)
+ -encombrants, s'emmellent
+ -problèmes de compatiblités
+ -problemmes de casse d'un fils, donc rique d'incedie ou d'électrocution)
+ -problemmes de contact: entre un liquide, un autre materiau conducteur.
+ -problemmes d'accessibliliés
+ -cables à changer car ils s'abiment-> risque de danger
+ -vol de cable
+ 
+    B) sans fil
+    
+    avantages: 
+    -ne s'emmelle pas
+    -pas de problèmmes de compatibilité ( + chargeurs introuvables, prises qui se cassent)
+    -pas de casse d'un fil
+    -pas de surchauffe d'un cable donc pas de risque d'incendie ou de coupire électrique
+    -pas de problemmes d'accessibilité (horloge en hauteur, lumière de sortie de secours)
+    -peut recharger ton télephone ou un appareil electrique en le posant sur une table
+    -plus de problemmes d'étanchéité donc de risque d'incendie ou de coupire électrique
+    -pas de cables à changer
+    
+    inconveniant:
+    -randement très faible 
+    -peu de porté et parfois dépendante de l'environnement ( cf MIT )
+    
+    
+    
