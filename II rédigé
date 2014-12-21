@@ -36,6 +36,9 @@ diagramme des interactions: pieuvre
  -cables à changer car ils s'abiment-> risque de danger
  -vol de cable
  
+ 
+ 
+ 
     B) sans fil
     
     avantages: 
@@ -54,3 +57,25 @@ diagramme des interactions: pieuvre
     
     
     
+ La transmission d'électricité avec fil est préferable dans certains cas:
+ -longue portés,
+ -besoin de très grosse puissances
+ -transmission exterieur, exposés au élements naturels
+ 
+ la transmission d'électricité sans fil est préferable dans certains cas:
+ -recharger des appareils électriques 
+ -petite porté
+ -millieu humide 
+ -petite puissance
+ 
+        C) dangers
+
+    pour l'électricité sans fil
+-contact avec un bobine qui transmet l'électricité mais elles seront protégé par un couvercle
+-sinon pas de danger si on est dans le champs magnétique pour le MIT, et le truc des koréens
+
+    pour l'électricité avec fil
+-risque d'électrocution à cause d'un contact avec un fil dénudé ou abimé
+-risque de surchauffe d'un fil donc d'incendie
+-risque de court circuit
+
