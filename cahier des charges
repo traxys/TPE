@@ -2,12 +2,16 @@ fonction principal: transmettre de l'électricité
 
 fonctions contrainte:
 fc1: sécurisé
-fc2: esthétique
-fc3: compatibilité
-fc4: ne pas être encombrant
-fc5: être rangeable
-fc6: respect de l'environnement
-fc7: prix
+fc6: esthétique
+fc2: compatibilité
+fc3: ne pas être encombrant
+fc4: être rangeable
+fc7: respect de l'environnement
+fc5 prix
 fc8: protéger contre le vol
 
+
+Le besoin que nous avons ciblée est la trnsmission d'électricité.
+La fonction princpale est de transmettre de l'électricité
+Les fonctions contraintes sont: être sécurisé, compatible avec de nombreux éléments, ne pas être encombrant, être rangeable, avoir un prix abordable, être esthétique, respecter l'environnement, être protégé contre le vol.
 
