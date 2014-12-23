@@ -96,10 +96,10 @@ sont des points). Elle est attractive si les chragessont de signe contraire, et 
     \fbox{\includegraphics[width=0.45\textwidth]{Joule}}
   \end{center}
   \caption{L'effet joule}
-\end{wrapfigure}Un effet négatif important produit par des cables est l'effet Joule , exprimé dans dans le cadre d'application de la loi d'Ohm par la formule \( P=I^{2} \times R\) ou R est la resitance est liée a la resistivité (\(\rho\)) par la formule \( R= \rho \frac{\ell}{A} \) dans laquelle \(\ell\) est la longeur et A est la surface de coupe en \(m^2\).
+\end{wrapfigure}Un effet négatif important produit par des cables est l'effet Joule , exprimé dans dans le cadre d'application de la loi d'Ohm par la formule \( P=I^{2} \times R\)\cite{wiki2} ou R est la resitance est liée a la resistivité (\(\rho\)) par la formule \( R= \rho \frac{\ell}{A} \)\cite{wiki3} dans laquelle \(\ell\) est la longeur et A est la surface de coupe en \(m^2\).
 D'ou la resistance d'un cable de 1m de long et de 1mm de diamétre est \(17 \times 10^{-9} \times \frac{1}{\pi (0.5 \times 10^{-3})^{2}} = 0.021 \Omega \) et donc l'effect joule produit dans le cas d'un courant de 1A est de \( P=1^{2} \times 0.02 = 0.02 W\).
 
-	Néamoins d'autres problemes peuvent occurer dans le cas d'une utilisation domstique , comme la profusion de cable qui genrent des nuisances esthetiques et des nuisances magnétiques générés par les cables nombreux qui subissent le phenomene de diaphonie (ou crosstalk)
+	Néamoins d'autres problemes peuvent occurer dans le cas d'une utilisation domstique , comme la profusion de cable qui genrent des nuisances esthetiques et des nuisances magnétiques générés par les cables nombreux qui subissent le phenomene de diaphonie (ou crosstalk)\cite{wiki4}
 \begin{wrapfigure}{r}{0.4\textwidth}
   \begin{center}
     \setlength\fboxsep{0pt}
@@ -161,7 +161,15 @@ Contrairement au CMRS ou l'on pensait principalement à l'efficacité et au rede
 
   Contrairement au CMRS qui a eu le temps de se developper , cette technologie ayant été présentée en 2013 , elle n'a pas pu etre exploitée ni testée , et par consequent nous ne pouvons comparer completement objectivement ces deux technologies.
 \section{Avantages et limitations des technologies étudiées}
-\section{Technlogies alternatives pour transmetre de l'energie}
+Les differentes technologies répondent à une même problématique , transferer de l'energie mais les deux solutions sans fil que nous avons étudiées essayent de pallier le probleme que les câbles electriques rencontrent de plus en plus , vu leur proliferation active dans les milieux ou l'elecricité est présente. Ils ont aussi les inconvenients de subir l'effet Joule qui peut devenir assez important impactant aussi le rendement des cables qui reduisent avec la chaleur , qui sinon est proche de 100\%.
+
+  Comme technologie sans fil , le CMRS répond à cette limitation du nombre de cables importants en les supprimants presque totalment, excluants les entrées et ceux consitituants le systeme et la sortie , étant invisbles à l'utilisateur. Mais cet aspect important est en partie eclispé par le rendement inférieur de moité au câbles , et a la dependance du systeme au conditions de l'environement , meme si son créateur pense que cet aspect est négigeable puisque il a l'intention de produire sa technologie à grande echelle.
+  
+  L'autre systeme IPTS que nous avons étudié est la technologie du KAIST qui présente elle l'avantge par rapport au CMRS d'une dépendance moindre au conditions de l'environement au détriment d'un redement encore inférieur , mais cette technologie n'a pas encore pu etre testée dû a sa decouverte tres recente , il y a seulment 1 an.
+  
+  Ces deux systemes ont l'avantage de pouvoir etre actif sans ligne de vue , tant que aucun matériaux alterant le champ magnetique produit n'est situé entre l'emteur et le recepteur , conduisant à une simplification possible du systeme electrique domestique, où les prises murales aurait disparues et tout les appareils electriques que nous posedons actuellement seront parfaitement mobiles à l'interieur de notre espace domestique.
+\section{Technlogies alternatives pour transmetre de l'energie \cite{wiki5}}
+  Contrairment a transmettre directement de l'electricité directement , il est possible de transmettre d'autres formes d'energie tel que les lasers , étant possiblement plus efficace , quoique la conversion electricté/lumierere/électricité est surement source de nombreuses pertes , mais contrairement aux champs magnétiques aggisant sur une distance de quelques métres , on peut transmettre des lasers sans trop de problemes sur quelques kilométres , si toutefois il y a ligne de vue ce qui peut etre difficile parfois. A la place des lasers on peut aussi utiliser des micro-ondes , ceci traversant mieux les obstacles semi opaques , au détriment d'une portée moindre , de l'orde de la centaine de métre pour que le systeme reste d'une taille pratique. Les conversions des lasers et des micros ondes sont de 50\% , mais les lasers peuvent etre totalemant bloqués par la pluie ou le brouillard , mais ne subissent pas d'interfrences d'autre systemes electro-magnetiques.
 \begin{thebibliography}{9}
     
   \bibitem{mSojal}
@@ -177,6 +185,22 @@ Contrairement au CMRS ou l'on pensait principalement à l'efficacité et au rede
   \bibitem{wiki1}
   Wikipedia,
   \emph{Resonant inductive coupling}.
+  
+  \bibitem{wiki2}
+  Wikipedia,
+  \emph{Joule Heating}.
+  
+  \bibitem{wiki3}
+  Wikipedia,
+  \emph{Electrical resistance and conductance}.
+  
+  \bibitem{wiki4}
+  Wikipedia,
+  \emph{Crosstalk}.
+  
+  \bibitem{wiki5}
+  Wikipedia,
+  \emph{Wireless Power}.
   
 \end{thebibliography}
 \end{document}
