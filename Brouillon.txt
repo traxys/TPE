@@ -13,6 +13,9 @@ II - Transmissions de l’electricité //Demarche de projet
 	dl TDC need
 	//Comment mieux fairte qu'avec les cables --> dans ceraines situations
 	
+	analyse du besoin, de la situation, nommer 9 fonctions, analyse fonctionnel 
+	cahier des charges
+	
 III- Prenstation de la technologie Avec les limites et une maquette
 
 A)Technologies existantes - bref resumé technique / small pro /cons
