@@ -3,16 +3,40 @@
   
   
 Dans ce tpe, le besoin que nous avons ciblé est la transmission d'électricité. 
-L'objectif de ce tpe est de transmettre de l'électricité. Pour cela nous allons faire une experience qui consiste à transmettre de 'électricité à distance gace à un système de bobine. 
+L'objectif de ce tpe est de transmettre de l'électricité. Pour cela nous allons faire une experience qui consiste à transmettre de l'électricité à distance gace à un système de bobine. 
+
 Nous allons donc réaliser une analyse fonctionnelle et un cahier des charges de la transmission d'électricité.
-La transmission d'électricité rend service aux homme en agissant sur tous les appareils électriques donc sur notre style de vie, dans le but d'ameliorer notre niveau de vie, de nous aider dans nos taches journalières, de créer de la lumière ou de l'énergie, à alimenter des moteurs...
-La transmission d'électricité sert à faire fonctionner des appareils électriques ou électronique, à transmettre des données, à alumer des appareils électriques ou electroniques, à créer des champs magnétique très puissant, à créer de la chaleur ou de la lumière. On à egalemnt utilisé l'électricité dans le domaine experimentale ou dans l'inovation ( les suspensions magnétique de chez porches, les enceintes...)
+La transmission d'électricité rend service aux homme:
+-en agissant sur tous les appareils électriques donc sur notre style de vie,
+-en améliorant notre niveau de vie et notre confort,
+-en nous aidant dans nos taches journalières, 
+-en créant de la lumière ou de l'énergie,
+-en alimentant des moteurs...
+Ce qui permet de rendre service aux hommes est en grande partie dépendante de l'électricité.
+
+En effet, la transmission d'électricité sert:
+-à faire fonctionner des appareils électriques ou électronique,
+-à transmettre des données, 
+-à alumer des appareils électriques ou electroniques, 
+-à créer des champs magnétique très puissant,
+-à créer de la chaleur ou de la lumière. 
+On à utilisent égalemment l'électricité dans le domaine experimentale ou dans l'inovation ( les suspensions magnétique de chez porches, les enceintes...)
 
   schéma bête à corne
   
 Evidemment, chaque transmission à ses avantages et ses inconveniants. 
-Les avantages de la transmission avec fils sont que nous avons un rendement très fort et une longue porté pour transmettre l'électricité. 
-Mais les inconveniants sont nombreux, les problemmes de transmission par cable sont que les cables peuvent surchauffer, donc engendrer des coupures électrique, ou des incendie. Les autres problemmes possibles sont que les fil sont encombrnte et peuvent s'emmeler, ont peut avoir des problemmes de compatibilité entre les différente entrés et sorties qui peuvent être différentes pour chaques appareils, un fil puet aussi potentielement se casser et il s'abime ce qui provoquerai des risques d'incendie ou d'électrocution. Les cables sont égalemnt sujet à des vols et ils faut les changer lorsqu'ils sont abimés. Le problèmme est qu'il sont difficilement accessible.
+Les avantages de la transmission avec fils sont:
+-un rendement très fort,
+-une longue porté pour transmettre l'électricité. 
+
+Mais les inconveniants sont nombreux:
+-les cables peuvent surchauffer donc engendrer des coupures électrique ou des incendie
+-les fils sont encombrnte et peuvent s'emmeler,
+-on peut avoir des problemmes de compatibilité entre les différente entrés et sorties qui peuvent être différentes pour chaques appareils,
+-un fil peut aussi potentielement se casser et il s'abime ce qui provoquerai des risques d'incendie ou d'électrocution.
+-les cables sont égalemnt sujet à des vols,
+-ils faut les changer lorsqu'ils sont abimés malheuresements le problèmme est qu'il sont difficilement accessible.
+
 Les avantages de la transmission sans fil sont qu'il n'y a pas de problemmes de compatibilité, de fils qui s'emmelent, de casse d'un fil, de surchauffe d'un cable. La transmission d'électricité exclues les risques d'incendies et de coupures électriques suite à la casse d'un fil ou du contacte entre de l'eau et un fil dénudés. On peut aussi recharger des appareils à petite puissance beaucoup plus simplement par système d'induction (pas de chargeurs introuvables ou de prise qui se cassent). Et il n'y a pas de probemmes d'accissibilité  pour accéder au système électrique. 
 Les inconveniants de la transmision d'électricité sans fil sont un randement très faible et un portés très limité.
 Il y a donc des cas où il est préférable d'utiliser un système de transmission avec fil lorsque on a besoin de transmettre sur de très grandes ditances, quand on doit transmettre une très grosse puissance ou quantité l'électricité ou encore de transmettre de l'électricité dans des millieus exterieurs exposés au élements naturels.
@@ -23,7 +47,17 @@ Alors que la transmission sans fil n'est dangereuse que si on touche la bobine q
 La transmission d'électricité dit répondre à plusieurs besoin. Le principal étant transmettre de l'électricité. Mais pour transmettre cette énergie, il faut également répondre à de nombreuses autres contraintes: 
 -avoir un prix accessible,
 -être compatible avec de nombreux élements,
--être sécurisé
+-être sécurisé,
+-être protégé contre le vol,
+-ne pas être encombrant,
+-être esthétique, 
+-être rangeable,
+-être accessible facilement,
+-respecter l'environnement.
+
+    schéma diagramme pieuvre
+    
+
 
     attention bien relir et rajouter la fc 9: accessibilité de l'élement recepteur de l'électrcité + faire attention à ce que la fp1 soi bien transmettre de l'électricité et le produit transmission d'électrticité et pas l'inverse
 
