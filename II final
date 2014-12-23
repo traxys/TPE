@@ -1,6 +1,7 @@
 
   II la transmssion d'électricité 
   
+  A) les avantages et inconvéniants de la transmission d'électricité avec et sans fil
   
 Dans ce tpe, le besoin que nous avons ciblé est la transmission d'électricité. 
 L'objectif de ce tpe est de transmettre de l'électricité. Pour cela nous allons faire une experience qui consiste à transmettre de l'électricité à distance gace à un système de bobine. 
@@ -55,7 +56,10 @@ La transmission d'électricité sans fil est utilisé lorsqu'on a besoin de tran
 Les dangers de la transmissin sans fil sont moindre face à ceux que peuvent provoquer la transmission avec fil. En effet, la transmssion avec fil peut être la source d'incendie, d'électrocution, de court-circuit.
 Alors que la transmission sans fil n'est dangereuse que si on touche la bobine qui transmet l'élactricité. Or cette bobine est protégée et contrairement aux protections des fils électriques, elle ne s'use pas et ne surchauffe pas. 
 
-La transmission d'électricité dit répondre à plusieurs besoin. Le principal étant transmettre de l'électricité. Mais pour transmettre cette énergie, il faut également répondre à de nombreuses autres contraintes: 
+
+  B) les besoins auquels doit répondre la transmission d'électricité
+  
+La transmission d'électricité doit répondre à plusieurs besoin. Le principal étant transmettre de l'électricité. Mais pour transmettre cette énergie, il faut également répondre à de nombreuses autres contraintes: 
 -avoir un prix accessible,
 -être compatible avec de nombreux élements,
 -être sécurisé,
@@ -68,8 +72,21 @@ La transmission d'électricité dit répondre à plusieurs besoin. Le principal 
 
     schéma diagramme pieuvre
     
+    
+    C) les danger de l transmissin d'électricité
+
+L'électricité à toujours été un phénomène facinant mais dangereux. 
+
+La transmission d'électricité avec fil est dangereuse dans le cas où un cable est abîmé, dénudé, en contacte avec un liquide où un matériaux conducteur donc il y a un risque d'incendie, de coupure électrique ou encore d'électrocution.
+Le contact entre un membre et un cable abimé, casser ou dénudé est également dangereux, au même titre que la surchauffe d'un cable.
+
+La transmission d'électricité sans fil est dangereuse dans le cas où il y a un contact entre un membre et un emmeteur, 
+
+
 
 
     attention bien relir et rajouter la fc 9: accessibilité de l'élement recepteur de l'électrcité + faire attention à ce que la fp1 soi bien transmettre de l'électricité et le produit transmission d'électrticité et pas l'inverse
 
-travail qu'il reste à faire: réécrire la présentation est changeant les énumération --> tiret
+travail qu'il reste à faire:
+-réécrire la présentation est changeant les énumération --> tiret
+-répondre au besoins de la transmission d'électricité (comment on fait pour la protéger du vo; et qu'elle est la technique la plus approprié (avec ou sans fil) ?
