@@ -10,22 +10,22 @@
 
 %\includegraphics{elecshock}%
 
-\title{Transmission d'electricité sans fil par le biais de systemes de tranfert d'energie inductive (IPTS)}
+\title{Transmission d'électricité sans fil par le biais de systèmes de transfert d'énergie inductive (IPTS)}
 \author{Blaise Ribon, Léo Boudoin, Quentin Boyer}
 \date{Décembre 2014}
 \maketitle
 
 \begin{abstract}
-	Suite a l'experience menée en 2007 au MIT , nous savons qu'il est possible de transmettre de l'electricité à travers de moyennes distances, de l'ordre de 5m. Ce type de transmissions d'electricité pourrait simplifier les reseaux electriques domestiques étant donné le nombre de cables demandés par chaque appareil electronique, qui proliferent. Mais nous verrons que cette technologie et celles semblables se heurtent à des freins majeurs dans la pratique et que leur mise en place est assez complexe.
+	Suite a l'expérience menée en 2007 au MIT , nous savons qu'il est possible de transmettre de l'électricité à travers de moyennes distances, de l'ordre de 5m. Ce type de transmissions d'électricité pourrait simplifier les réseaux electriques domestiques étant donné le nombre de câbles demandés par chaque appareil électronique, qui prolifèrent. Mais nous verrons que cette technologie et celles semblables se heurtent à des freins majeurs dans la pratique et que leur mise en place est assez complexe.
 \end{abstract}
 
 \tableofcontents
 
 \chapter{Définition et Utilisation de l'electricité} %Titre a changer je pense%
-\section{Historique de l'electricité}
+\section{Historique de l'électricité}
 
 \begin{figure}[h!]
-  \caption{Le feu dans la prehistoire}
+  \caption{Le feu dans la préhistoire}
   \centering
 	\includegraphics[width=10cm]{feu_prehisoire}
 \end{figure}
@@ -56,52 +56,30 @@ De nombreuses autres découvertes ont été faites durant ce siècle, comme les 
   \caption{Ohm}
 \end{wrapfigure}
  (\(\vec{F_{1/2}}=\frac{q1q2}{4\pi \varepsilon _{0}}\frac{\vec{r_{2}}-\vec{r_{1}}}{\| \vec{r_{2}}-\vec{r_{1}} \|  ^{3}} \), ou q1 et q2 sont en C, \(\varepsilon _{0}\) en \(F.m^{-1}\) et \(\vec{r_{1}}\) et \(\vec{r_{2}}\)
-sont des points). Elle est attractive si les chragessont de signe contraire, et répulsive si les charges sont de même signe. Au XIXe siècle, la recherche s'accélère encore. Au début du siècle, sir Humphrey Davy(1778-1829) étudie et met au point la première pile à combustible. Sous la férule de Faraday, il créera aussi la première source de lumière électrique, l'arc électrique. En même temps, Georg Simon Ohm(1787-1854), découvre la résistance des conducturs et etudie les propriétés quantitatives des courants électriques, dont il formule les lois fondamentales. La loi d'Ohm est une relation simple entre l'intesnité, la tension, et la résistance \( I = U \times R \) , avec I pour l'intensité, en ampères, U pour les tension, en volts, et R pour la résistance, en Ohms.
+sont des points). Elle est attractive si les charges sont de signe contraire, et répulsive si les charges sont de même signe. Au XIXe siècle, la recherche s'accélère encore. Au début de ce siècle, sir Humphrey Davy(1778-1829) étudie et met au point la première pile à combustible. Sous la férule de Faraday, il créera aussi la première source de lumière électrique, l'arc électrique. En même temps, Georg Simon Ohm(1787-1854), découvre la résistance des conducturs et etudie les propriétés quantitatives des courants électriques, dont il formule les lois fondamentales. La loi d'Ohm est une relation simple entre l'intesnité, la tension, et la résistance \( I = U \times R \) , avec I pour l'intensité, en ampères, U pour les tension, en volts, et R pour la résistance, en Ohms.
     
     En découvrant cette propriété, il affine la notion d'électricité suffisamment pour la rendre utilisable, et ce sera sur cet axe que la recherche scientifique sera axée dès le second quart du siècle.
 \section{Avancées technologiques et Utilisation}
-     En parallèle comence les premiers travaux sur l'électromagnétisme, menés par Hans-Christian Oersted(1777-1851), qui découvre le champ magnétique associé à tout courant électrique, et est à la base de la théorie classique de l'électromagnétisme, affinée plus tard par Ampère, Faraday et Maxwell
-André-Marie Ampère (1775-1830) est un physicien, chimiste et mathématicien français est un "père fondateur" de l'électromagnétisme. Il introduit la notion de courant, qui aura sont nom pour unité, , et établit la relation mathématique entre l'intensité et l'orientation du champ magnétique créé par le courant. On lui doit le galvanomètre, le télégraphe électrique, la bobine solénoïde et, en partenariat avec Arago(1756-1853), l'électro-aimant
-Arago, qui à l'aide de Gay-Lussac découvre les propriété magnétiques du fer placé au centre d'un bobine solénoïde.
 
-(AFFICHER L4IMAGE D'UNE BOBINE SOLENOIDE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)
-
-    Michel Faraday(1791-1867) est quant à lui un chimiste et physicien anglais.Il met au point le tout principe moteur électrique, et découvre l'induction électromagnétique. Il distinguera aussi les paramagnétiques des diamagnétiques, les bons conducteurs magnétiques étant les premiers, et les mauvais conducteurs les seconds.
-Cependant, une part de ses travaux ne seront pas reconnus par ses contemporains. James Clerk Maxwell fut le premier à s'y intéresser, bien plus tard. Avant son entrée en scène dans le monde scientifique, Peter Barlow met au point sa roue homonyme en 1823, le premier exemple de moteur électrique, et Joseph Henry découvre le phénomène d'auto-inductance, qui permettra de maintenir plus facilement le courant à une valeur donnée. Il mettra aussi au point certains moteurs et une électro-aimant plus simple, outil essentiel pour l'époque.
-L'unité d'auto -inductance est nommée le Henry(H) en son nom.
-
-    De nombreux moteurs sont mis au point, comme celui d'un cheval-vapeur de Von Jacobi en 1834, ainsi que des pils, comme la pile à combustible de Grove, en 1839.
-Vint aussi James Prescott Joule(1818-1889), un physicien amateur, réputé pour son enthyousiasme, qui énoncera la "loi de Joule". Selon cette dernière, , un résistor parcouru par un courant électrique reçoit une puissance électrique proportionnelle à la résistance du résistor et au carré de l'intensité du courant. Ceci implique que dans un courant électrique, les pertes sont proportionnelles à son intensité et à la résistivité du matériau, et donc inversement à la largeur du câble.
-En 1860, un physicien démontre qu'électricité et électromagnétisme ne sont qu'un. considéré comme le plus grand physicien de son époque, James Clerk Maxwell fait énormément avancer la science, en particulier dans la théorie cinétique des gaz, et l'électromagnétisme. Dans ce dernier, il reprend les idées d'Ampère et de Faraday, et met en forme la théorie qui régit les actions à distance.
-Zénobe Gramme(1826-1901), un inventeur belge se rend celèbre et rendant possible la crétions de générateur à courant continu.
-
-    Le monde s'éclaire en 1879, grâce à la création des première lampes à incandescennce de Thomas alva Edison(1847-1931). Il s'intéresse aussi au techniques cinématocraphiques, et sera le rival du plus jeune Nikola Tesla.
-En 1881, la France organise l'Exposition internationale de l'électricité, qui consacre la naissance de l'électrotechnique. On se souciera également d'unifier les normes. Cette année-là, Edouard Branly réalisera le premier détecteur d'ondes hertziennes.
-Nikola Tesla (1856-1943), un ingénieur en électrique yougoslave fonde une société pour la construction des alternateurs en 1887. Ses travaux sur le courant alternatif feront qu'il sera le courant le plus utilisé, à la fois pour le transport et la consommation, dans la mesure du possible, au grand désespoir de Thomas Edison.Il fera un nombre faramineux de découvertes, à tel point qu'aujourd'hui encore on ne sait pas jusqu'où ses travaux sont allés. L'unité magnétique d'induction porte aujourd'hui son nom dans le système SI(le tesla, de symbole T)
-    
-    Au début du XXème siècle, les premières émissions radiophoniques et téléphinques ont lieu, et se déveleoppent rapidement.De nombreux société s'orientant sur l'électrique et l'électronique apparaissent, comme Hitachi au Japon, ou la Westinghouse Electric Corporation, aux Etats-Unis
-En 1948, le transistor est mis au point par John Bardeen, walter Brattain et William Shockley dans les laboratoires de la Bell Telephone Company. Composant essentiel de l'électronique moderne, il leur vaudra le prix Nobel.
-Cette invention sera la dernière révolution que l'électrcique, et surtout l'électronique ont connu à ce jour, mais d'autres peuvent être à venir, et même toutes proches.
-AFFICHER IMAGE D'UN TRANSISTOR 1G
-\chapter{Raisons de la transmission de l'electricité par des solutions non cablées} %Titre encore plus pété , Mais en fait on pourrait faire la demarche de projet sur la transimission d'electicté tout court en preseantant tour a tour les solutions cablées et non cablées , à voir%
+\chapter{Raisons de la transmission de l'électricité par des solutions non câblées} %Titre encore plus pété , Mais en fait on pourrait faire la demarche de projet sur la transimission d'electicté tout court en preseantant tour a tour les solutions cablées et non cablées , à voir%
 \section{--TODO--}
 
-\chapter{Les technologies de transmissions d'electricité : cablées et sans-fil} %A voir si on insiste autant sur les cables%
-\section{Presentation des technologies présentes}
-\subsection{Solution majoritaire actuelle : Les technoloogies cablées}
+\chapter{Les technologies de transmissions d'électricité : câblées et sans-fil} %A voir si on insiste autant sur les cables%
+\section{Présentation des technologies présentes}
+\subsection{Solution majoritaire actuelle : Les technoloogies câblées}
 \begin{wrapfigure}{r}{0.4\textwidth}
   \begin{center}
     \includegraphics[width=0.3\textwidth]{copperWire}
   \end{center}
   \caption{Fils du cuivres}
-\end{wrapfigure} La solution de transmission d'electricité la plus utilisée au monde est sans contestation possible le cable electrique , ceci étant du à un faible coût (jusqu'a 1\$ le métre) , son très haut rendement puisque celui ci avoisine les 100\% sur les distances courtes avec de faibles puissances. En plus d'etre simple , elle n'est pas lourde en terme d'installation puisque les cables peuvent etre facilement mis dans les murs à la constuction d'un nouveau batiment, etre mis dans des gaines si l'on veut en rajouter ensuite et plus simplement on peut utiliser le systeme des prises pour les appareils temporaires et ponctuels. Grâce à ses avantages incontesables elle est devenue le standard , mais ceci entraîne un probleme non negligable qu'es la densité importante des cables electriques à proximité des appareils electroniques.
+\end{wrapfigure} La solution de transmission d'électricité la plus utilisée au monde est sans contestation possible le câble électrique , ceci étant dû à un faible coût (jusqu'a 1\$ le métre), son très haut rendement puisque celui-ci avoisine les 100\% sur les distances courtes avec de faibles puissances. En plus d'être simple , elle n'est pas lourde en terme d'installation puisque les câbles peuvent être facilement mis dans les murs à la construction d'un nouveau bâtiment, être mis dans des gaines si l'on veut en rajouter ensuite et plus simplement on peut utiliser le système des prises pour les appareils temporaires et ponctuels. Grâce à ses avantages incontestables elle est devenue le standard , mais ceci entraîne un probleme non negligable qu'est la densité importante des câbles électriques à proximité des appareils électroniques.
 	
-	Les matériau consituant les cables electriques sont generalement du cuivre pour les longues distances, mais dans les circuitis imprimé on peut utiliser l'or pour sa conductivité electrique immense , malgré son coût monstreux de l'ordre de la dizaine de millier d'euros le demi kilo. Voici ici un tableau qui récapitule la conductivité de divers métaux plus ou moins utilisés dans les réseaux cablées.
+	Les matériaux constituant les câbles électriques sont généralement du cuivre pour les longues distances, mais dans les circuitis imprimés on peut utiliser l'or pour sa conductivité électrique immense , malgré son coût extrêmement élevé, de l'ordre de la dizaine de millier d'euros le demi kilo. Voici ici un tableau qui récapitule la conductivité de divers métaux plus ou moins utilisés dans les réseaux câblées.
 
 \begin{center}
 \begin{tabular}{| l | c | r |}
 	\hline
-	Materiel & Resistivité électrique en \( n\Omega .m \)& Prix au Kilo \\
+	Matériel & Résistivité électrique en \( n\Omega .m \)& Prix au Kilo \\
 	\hline
 	Cuivre & 16.78 & 1.08 \euro{}  \\
 	Or & 22.14 & 29878 \euro{}  \\
@@ -118,10 +96,10 @@ AFFICHER IMAGE D'UN TRANSISTOR 1G
     \fbox{\includegraphics[width=0.45\textwidth]{Joule}}
   \end{center}
   \caption{L'effet joule}
-\end{wrapfigure}Un effet négatif important produit par des cables est l'effet Joule , exprimé dans dans le cadre d'application de la loi d'Ohm par la formule \( P=I^{2} \times R\)\cite{wiki2} ou R est la resitance est liée a la resistivité (\(\rho\)) par la formule \( R= \rho \frac{\ell}{A} \)\cite{wiki3} dans laquelle \(\ell\) est la longeur et A est la surface de coupe en \(m^2\).
-D'ou la resistance d'un cable de 1m de long et de 1mm de diamétre est \(17 \times 10^{-9} \times \frac{1}{\pi (0.5 \times 10^{-3})^{2}} = 0.021 \Omega \) et donc l'effect joule produit dans le cas d'un courant de 1A est de \( P=1^{2} \times 0.02 = 0.02 W\).
+\end{wrapfigure}Un effet négatif important produit par des câbles est l'effet Joule, exprimé dans dans le cadre d'application de la loi d'Ohm par la formule \( P=I^{2} \times R\)\cite{wiki2} ou R est la résistance, liée a la résistivité (\(\rho\)) par la formule \( R= \rho \frac{\ell}{A} \)\cite{wiki3} dans laquelle \(\ell\) est la longeur et A est la surface de coupe en \(m^2\).
+D'ou la résistance d'un câble de 1m de long et de 1mm de diamètre est \(17 \times 10^{-9} \times \frac{1}{\pi (0.5 \times 10^{-3})^{2}} = 0.021 \Omega \) et donc l'effet joule produit dans le cas d'un courant de 1A est de \( P=1^{2} \times 0.02 = 0.02 W\).
 
-	Néamoins d'autres problemes peuvent occurer dans le cas d'une utilisation domstique , comme la profusion de cable qui genrent des nuisances esthetiques et des nuisances magnétiques générés par les cables nombreux qui subissent le phenomene de diaphonie (ou crosstalk)\cite{wiki4}
+	Néanmoins d'autres problèmes peuvent occurer dans le cas d'une utilisation domestique , comme la profusion de câble qui génèrent des nuisances esthétiques et des nuisances magnétiques générées par les câbles nombreux qui subissent le phénomène de diaphonie (ou crosstalk)\cite{wiki4}
 \begin{wrapfigure}{r}{0.4\textwidth}
   \begin{center}
     \setlength\fboxsep{0pt}
@@ -129,18 +107,17 @@ D'ou la resistance d'un cable de 1m de long et de 1mm de diamétre est \(17 \tim
     \fbox{\includegraphics[width=0.3\textwidth]{crosstalk}}
   \end{center}
   \caption{Diaphonie}
-\end{wrapfigure}, qui est une interfernce entre les signaux passant par un cable dans un cable proche. C'est d'ailleur pour cette raison que lorsque les signaux transmis sont importants et ne doivent pas etre corompus on utilise des cables torsadés qui limite le phenomene. La problematique du transport d'objets electroniques de plus en plus consomateurs mais qui se veulent autonomes se pose , ou l'on est obligé de se separer d'eux pour les recharger ceic emepechant de benficier des avantages majeurs de ces objets autonomes , avec comme exemple le cas des telephones portables , ou la problematique plus importante du rehcargement des voitures electriques qui est long , et qu'il ne faut pas oublier de brancher un cable sinon rien n'occure. Les cables electriques que nous utilisons donc depuis la création de l'electricité ne sont plus adapté a un monde qui se veut de plus en plus liberé de toute les contraintes et de s'affranchir des contraites liés au tehcnolgies filiares , avec comme exemple le devloppement des telephones portables ou 
-de la wifi pour pallier la dependance cablée de l'ethernet.
+\end{wrapfigure}, qui est une interférence entre les signaux passant par un câble dans un câble proche. C'est d'ailleurs pour cette raison que lorsque les signaux transmis sont importants et ne doivent pas etre corrompus on utilise des câbles torsadés qui limite le phenomène. La problématique du transport d'objets électroniques de plus en plus consommateurs mais qui se veulent autonomes se pose , ou l'on est obligé de se séparer d'eux pour les recharger ceci empêchant de bénéficier des avantages majeurs de ces objets autonomes , avec comme exemple le cas des téléphones portables , ou la problématique plus importante du rechargement des voitures électriques qui est long , et il ne faut pas oublier de brancher un câble sinon rien ne se passe. Les câbles électriques que nous utilisons donc depuis lé  début de l'utilisation de l'électricité ne sont plus adaptés a un monde qui se veut de plus en plus libéré de toutes les contraintes et de s'affranchir des contraites liés au technolgies filaires , avec comme exemple le developpement des téléphones portables ou de la wifi pour pallier la dépendance câblée de l'ethernet.
 
-\subsection{Une solution IPTS efficace : Le systeme de couplage magnetique par resonnace (CMRS) \cite{mSojal}}
+\subsection{Une solution IPTS efficace : Le système de couplage magnétique par résonance (CMRS) \cite{mSojal}}
 \begin{wrapfigure}{r}{0.5\textwidth}
   \begin{center}
   \includegraphics[width=0.4\textwidth]{WTdiagram}
   \end{center}
 \caption{Diagramme}
-\end{wrapfigure}Le MIT , par l'equipe de Marin Soljačić , a developé en 2007 une technolgie inductive utlisant le meme pricipe que les transfomateurs electetriques ou les brosses a dent eletriques. Mais en utilisant des variations de cette tehnologies cette equipe du MIT a reussi a transmettre de l'energie a une television située de l'autre coté de la piece , assez pour l'alimenter. Mais le probleme de cette technologie est qu'elle est extremement dépendante de l'envitonement , une petite variation tel le passage d'un etre humain , un autre champ magnetique qui perturbe les syteme ou une variation de la temperature ou de l'humidité peut invalider l'experience. Cette technologie a aussi un incovenient majeur, partagé par tout les systemes inducifs de tranferts d'energie , plus souvents abregé en IPTS , qui est le rendement grandement inférieur à un cable éléctrique déployé sur la meme distance. Ceci est du a la nature meme de la technolige qui est un champ magnetique non ou peu dirigé contrairement a un cable electrique ou les eletrons n'ont que une suele direction possible pour traverser d'un bout a l'autre du systeme de transmission d'electricté. Néamoins cette technologie est basée sur la maximisation du rendement possbile par un systeme IPTS.
+\end{wrapfigure}Le MIT , grâce l'équipe de Marin Soljačić , a développé en 2007 une technolgie inductive utlisant le même pricipe que les transfomateurs électriques ou les brosses a dent électriques. Mais en utilisant des variations de cette technologies cette équipe du MIT a réussi a transmettre de l'énergie a une télévision située de l'autre côté de la pièce , assez pour l'alimenter. Mais le problème de cette technologie est qu'elle est extrêmement dépendante de l'environnement , une petite variation tel le passage d'un être humain , un autre champ magnétique qui perturbe les sytèmes ou une variation de la température ou de l'humidité peut invalider l'expérience. Cette technologie a aussi un incovénient majeur, partagé par tout les systèmes inductifs de transferts d'énergie , plus souvents abrégé en IPTS , qui est le rendement grandement inférieur à un cable électrique déployé sur la même distance. Ceci est dû à la nature même de la technologie qui est un champ magnétique non ou peu dirigé contrairement a un câble électrique où les electrons n'ont que une seule direction possible pour traverser d'un bout a l'autre le système de transmission d'électricité. Néanmoins cette technologie est basée sur la maximisation du rendement possbile par un systeme IPTS.
 
-	La dependance au conditions est du au systeme meme : il exploite la resonnace magnétique des matériaux , c'est a dire la capacité du materiau a produire une réaction energetique lorsque'il est simulé par un champ magnétique particulier , et ce "champ magnetique de resonnance" est affecté par la temperature , et il est deformé par les obstacle tel qu'un humain. Cette depedance extreme au champ magnetique est du au tres haut facteur de qualité du systeme technique utilisés dans l'experience du MIT , qui ne laisse aucune marge d'erreur dans les frequences. De plus la mise en place des bobines utilisés pour transmetre de l'electricité demande des reglages plutot complexes ou les bobines doivent etre accordées pour reagir au bon champ magnetique.
+	La dépendance aux conditions est dû au système meme : il exploite la resonance magnétique des matériaux , c'est-à-dire la capacité du matériau a produire une réaction énergetique lorsque'il est stimulé par un champ magnétique particulier , ce "champ magnétique de resonance" est affecté par la température , et il est déformé par les obstacles tel qu'un humain. Cette dépendance extrême au champ magnétique est du au très haut facteur de qualité du systeme technique utilisés dans l'experience du MIT , qui ne laisse aucune marge d'erreur dans les fréquences. De plus la mise en place des bobines utilisées pour transmettre de l'électricité demande des réglages complexes où les bobines doivent etre accordées pour réagir au bon champ magnétique.
 	
 \begin{wrapfigure}{l}{0.5\textwidth}
   \begin{center}
@@ -148,10 +125,10 @@ de la wifi pour pallier la dependance cablée de l'ethernet.
     \setlength\fboxrule{0.5pt}
     \fbox{\includegraphics[width=0.45\textwidth]{cmrsMontage}}
   \end{center}
-  \caption{Schema de montage}
-\end{wrapfigure} Dans tout IPTS le principe fondamentale est identique : Le courant traversant une bobine de fil induit un courant proportionel dans une autre bobine. Dans la technologie ici présentée ces deux bobines doivent etre alignées coaxiallement. L'enrée et la sortie est effectuée via des boucles , et celle d'entrée A doit etre positionée de telle maniere qu'elle n'interfere pas avec la bobine D , l'influence de B sur S étant minimale.
+  \caption{Schéma de montage}
+\end{wrapfigure} Dans tout IPTS le principe fondamental est identique : Le courant traversant une bobine de fil induit un courant proportionnel dans une autre bobine. Dans la technologie ici présentée ces deux bobines doivent être alignées coaxialement. L'entrée et la sortie est effectuée via des boucles , et celle d'entrée A doit etre positionnée de telle manière qu'elle n'interfère pas avec la bobine D , l'influence de B sur S étant minimale.
 
-  Cette technologie ne presente d'ailleurs que tres peu de danger \cite{wiki1} sur l'etre humain , étant donné que les champs magnetiques n'intergissant pratiquement pas avec les etre vivants , de meme que le reste de l'environement d'ou la ligne de vue entre les bobines S et D n'est pas nessecaire.
+  Cette technologie ne présente d'ailleurs que très peu de danger \cite{wiki1} sur l'être humain , étant donné que les champs magnétiques n'interagissant pratiquement pas avec les être vivants , de même que le reste de l'environnement d'où la ligne de vue entre les bobines S et D n'est pas nécessaire.
  D'apres Marin Soljačić cette technolgie à du potentiel puisque il a créé une compagnie , WiTricity , pour promulger sa découverte et il croit que cette technologie pourrait etre largement utilisé dans le cas de transfert de petites quantités d'energie comme recharger des telephones. 7 ans apres cette technologie ne s'est pas enormenet démocratisée meme si en 2011 Toyota a investi dans cette compagnie.
 \subsection{Une solution IPTS assez fiable : Une transmission utilisant des \{Dipole coils\}\cite{kaist14}}
 Contrairement au CMRS ou l'on pensait principalement à l'efficacité et au redement , faisant des bobines dependantes des conditions et plus adapté a transmettre des petites quantités d'energie , etant donné la complexité de la chose , les chercheurs du KAIST (Korea Advanced Institute of Science and Technology) en partenariat avec le departement nucléaire de corée ont developé une techlogie basée sur des \{Dipole coils\} qui est presque indépendante des conditions , grâce à un facteur qualité tres bas (\(\sim100\) , contrairement au CMRS qui avoisinait les 2000) et une technlogie plus simple a mettre en oeuvre , puisque la reponse n'est pas liée a des frequences tres specifiques , mais un peu plus larges.
