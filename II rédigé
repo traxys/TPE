@@ -1,5 +1,5 @@
 
-analyse fonctionnelle: le produit est la trasmission d'électricité
+analyse fonctionnelle: le produit est la transmission d'électricité
 
 ciblons le besoin: transmettre de l'électricité avec fil
                    transmettre de l'électricité sans fil
@@ -8,30 +8,30 @@ ciblons le besoin: transmettre de l'électricité avec fil
     A) avec fil
 bête à corne: 
 -a qui rend-il service ? -> aux hommes
--sur quoi agit-il ? -> sur tous les appareils électrique donc sur notre style de vie
--dans quel but ? -> dans le but d'ameliorer notre niveau de vie, de nous aider dans nos taches journalières, de créer de la lmumière ou de l'énergie, à alimenter des moteurs
+-sur quoi agit-il ? -> sur tous les appareils électriques donc sur notre style de vie
+-dans quel but ? -> dans le but d'améliorer notre niveau de vie, de nous aider dans nos tâches journalières, de créer de la lumière ou de l'énergie, à alimenter des moteurs
 
 diagramme des interactions: pieuvre
  produit transmettre de l'électricité avec fil
- fp1: transmettre de l'électricité pour faire fonctionner des appareils électriques/electronique
- fc1: transmettre des données à des appareils electrique/électonique
- fc2: alumer des appareils electriques/electronique, ou des moteurs.
- fc3: créer des champs magnétiques très puissant
- fc4: créer de la chaleur ou de la lumière (+ suspension magnétique et EMP et électroaiment et enceintes
+ fp1: transmettre de l'électricité pour faire fonctionner des appareils électriques/électroniques
+ fc1: transmettre des données à des appareils électriques/électroniques
+ fc2: allumer des appareils électriques/électroniques, ou des moteurs
+ fc3: créer des champs magnétiques très puissants
+ fc4: créer de la chaleur ou de la lumière (+ suspension magnétique et EMP et électroaiment et enceintes)
  
  
  
- inconveniants:
- -chauffe le cable donc rique de surchauffe et d'incedies et de coupure d'electricté ( cf effet joule)
- -encombrants, s'emmellent
+ inconvénients:
+ -chauffe le câble donc rique de surchauffe et d'incendies et de coupure d'électricité ( cf effet joule)
+ -encombrants, s'emmêlent
  -problèmes de compatiblités
- -problemmes de casse d'un fils, donc rique d'incedie ou d'électrocution)
- -problemmes d'accessibliliés
- -cables à changer car ils s'abiment-> risque de danger
- -vol de cable
+ -problèmes de casse d'un fil, donc rique d'incendie ou d'électrocution
+ -problèmes d'accessibliliés
+ -câbles à changer car ils s'abîment-> risque de danger
+ -vol de câble
  
      Dangers pour l'électricité avec fil
--risque d'électrocution à cause d'un contact avec un fil dénudé ou abimé
+-risque d'électrocution à cause d'un contact avec un fil dénudé ou abîmé
 -risque de surchauffe d'un fil donc d'incendie
 -risque de court circuit
  
@@ -39,28 +39,28 @@ diagramme des interactions: pieuvre
     B) sans fil
     
     avantages: 
-    -ne s'emmelle pas
-    -pas de problèmmes de compatibilité ( + chargeurs introuvables, prises qui se cassent)
+    -ne s'emmêle pas
+    -pas de problèmes de compatibilité ( + chargeurs introuvables, prises qui se cassent)
     -pas de casse d'un fil
-    -pas de surchauffe d'un cable donc pas de risque d'incendie ou de coupire électrique
-    -pas de problemmes d'accessibilité (horloge en hauteur, lumière de sortie de secours)
-    -peut recharger ton télephone ou un appareil electrique en le posant sur une table
-    -plus de problemmes d'étanchéité
-    -pas de cables à changer
+    -pas de surchauffe d'un câble donc pas de risque d'incendie ou de coupure électrique
+    -pas de problèmes d'accessibilité (horloge en hauteur, lumière de sortie de secours)
+    -peut recharger un télephone ou un appareil électrique en le posant sur une table
+    -plus de problèmes d'étanchéité
+    -pas de câbles à changer
     
        Dangers pour l'électricité sans fil
--contact avec un bobine qui transmet l'électricité mais elles seront protégé par un couvercle
--sinon pas de danger si on est dans le champs magnétique pour le MIT, et le truc des koréens
+-contact avec une bobine qui transmet l'électricité mais elles seront protégé par un couvercle
+-sinon pas de danger si on est dans le champs magnétique pour le MIT, et l'expérience des coréens
 
     
- La transmission d'électricité avec fil est préferable dans certains cas:
- -longue portés,
- -transmission exterieur, exposés au élements naturels
+ La transmission d'électricité avec fil est préférable dans certains cas:
+ -longue portée,
+ -transmission extérieure, exposés au éléments naturels
  
- la transmission d'électricité sans fil est préferable dans certains cas:
- -recharger des appareils électriques 
- -petite porté
- -millieu humide 
+ la transmission d'électricité sans fil est préférable dans certains cas:
+ -recharger des appareils électriques
+ -curte porté
+ -milieu humide 
  -petite puissance
 
 
@@ -70,12 +70,10 @@ FAST
 
 
 
-http://pedagogie.ac-montpellier.fr/Actions/ppcp/fichdem.html
+idée: comment transmettre de l'électricité ?
 
-idéée: comment transmettre de l'électricité ?
-
-analyse de la situaution: objectif-> transmettre de l'électricté
+analyse de la situation: objectif-> transmettre de l'électricté
 ->stratégie-> avec fil ou sans fil 
-->étude de la fasabilité-> experience de transmission d'électricité à distance avec deux bobines
+->étude de la fasabilité-> expérience de transmission d'électricité à distance avec deux bobines
 
-choix d'une stratégie: analyse fonctionnelle de l'électricité et cahier des charge de l'analyse fonctionnelle
+choix d'une stratégie: analyse fonctionnelle de l'électricité et cahier des charges de l'analyse fonctionnelle
