@@ -169,7 +169,25 @@ D'ou la résistance d'un câble de 1m de long et de 1mm de diamètre est \(17 \t
 	\item risque de surchauffe d'un fil donc d'incendie.
 	\item risque de court circuit.
 \end{itemize}
-\section{Analyse fonctionelle des technologies sans-fil}
+\section{Technologies transmetant de l'energie sans-fil \cite{wiki5}}
+  \subsection{Les lasers}
+\begin{wrapfigure}{r}{0.6\textwidth}
+  \begin{center}
+    \includegraphics[width=0.5\textwidth]{laser}
+  \end{center}
+  \caption{Transmission sur de tres longues distances}
+\end{wrapfigure}Contrairement a l'idée de transmettre de l'électricité directement grâce au champs magnétiques , l'on peut transmettre cette énergie par les lasers  , et la convertir ensuite en électricité par des cellules photovoltaïques , cette technologie à l'avantage majeur de fonctionner sur des distances beaucoup plus grandes , de l'ordre de quelques kilomè tres puisque la dispersion des lasers est moindre et celui ci est uni-directionnel. Le rendement de ce système est aussi légèrement supérieur , puisque la création du lasers est plutôt efficace , et la réception a un rendement de l'ordre de 50\%. Mais ces deux avantages sont compensés par deux inconvénients qui ne gênent pas les champs magnétiques qui sont que cette technologie doit avoir une ligne de vue pour pouvoir fonctionner , et des obstacles comme des arbres qui poussent pourraient interrompre la transmission , et cette dernière peut etre complètement invalidée en cas de pluie ou brouillard.
+    \subsection{Les micros ondes}
+\begin{wrapfigure}{l}{0.4\textwidth}
+  \begin{center}
+    \includegraphics[width=0.3\textwidth]{microwave}
+  \end{center}
+  \caption{Transmission sur de tres longues distances}
+\end{wrapfigure}Dans le même domaine que les lasers l'on peut utiliser les micros-ondes , ce que les hommmes on déjà fait dès les années 1970 à 1990 , qui ont comme avantage d'être bien moins afféctées par les conditions météorologiques , mais ceci est au détriment de la distance , puisque les micros ondes se dispersent beaucoup plus que les lasers , et leurs effets peuvent être plus nocifs sur les êtres humains.
+
+  Néanmoins ces deux techologies sont moins adaptées a un usage domestique puisqu'elles demandent une ligne de vue , mais puisque la seule perte qu'elles subissent dont le réflection et la dispertion , si posssede des antennes très grandes on peut les utiliser pour des transmissions terre-espace.
+\subsection{Les technoliges inductives}
+  Un autre moyen de transmettre de l'energie sans fil , et dans ce cas directement de l'energie electrique est de passer par les sytemes inductifs , qui ne sont a l'heure actuelle utililsés que dans des tres courtes distances avec deux applications plus ou moins communes domestiques : les brosses a dent sans fil electriques et les systemes servant a recherger les nokias lumias sans fil. Tout les systemes inductifs de transfert d'energie (ou abrégé en anglais par IPTS) fonctionenenet sur le meme precipe : un champ magnétique induit par un solenoïde se repercute dans une autre bobine ce qui permet de generer un courant electrique sans fil avec les-dits champs magnétiques. Néanmoins pour optimiser les systemes IPTS l'on à developé des variations dans l'application de cette methode.
 Voici les avantages utiles des technologies non cablées:
 \begin{itemize}
 	\item ne s'emmêle pas.
@@ -185,13 +203,10 @@ Cette technologie présente néamoins des risques étants :
 	\item contact avec une bobine qui transmet l'électricité mais elles seront protégé par un couvercle.
 	\item sinon pas de danger si on est dans le champs magnétique pour le MIT, et l'expérience du KAIST.
 \end{itemize}
-\section{Cas d'utilisation des technologie présentées}
-	Cette description pratique des technologie semble degager deux cas d'utilisation pour celles-ci :
-	On peut preferer les technologies cablées dans le cas de transmissions à longue portée ou dans un exnvironement exposé au elements naturels
-	Mais c'est préferable d'utliser , il semble , la tranmission sans fil dans le cas d'une utilisation domestique , dans les milieux humides et lorsque des petites puissances dont concernées.
+\section{Comparatif des systemes de transfert d'energie.}
+	Sans aucun doute possible la technologie actuelle n'est pas la plus pratique puisque elle impose de lourdes contraintes , étant donné que l'on en peut pas deplacer les appareils connectés au système , et que ce systeme n'est pas du tout esthetique , critére de plus en plus important maintenant. Quoique cette technologie présente deux aspects techniques importants puisuqe du a sa simplicité elle tombe potentiellement peu en panne et elle a un rendement tres important comme dit precedment. Les alternatives à cette technologie monopolisante sont de deux ordes , premierement on peut utiliser les lasers qui on un avantage énorme de distance puisque l'on pourrait les utiliser entre la terre et la lune , avec un redement assez peut dépendant de la distance , qui ne depends presque que de la reception car les cellules photovoltaïque on un rendement de l'orde de 50\%. Dans le meme ordre d'ideé on peut utiliser les micro ondes , qui ont un redement supérieur au lasers mais qui est plus lourd à installer comme precisé avant. Sachant que ces deux technologies souffrent d'une faille majuer du a la ligne de vue demandée pour qu'elles fonctionnent. La troisième technologie présentée semble etre le meilleur compromis entre distance , rendement et praticité puisuque elle ne demande pas de ligne de vue , mais possede pour l'instant un redement inférieur au autre technlogies avec l'avantage majeur d'etre sans-fil , nous allons donc détailler plus les systemes IPTS maintenant.
 
-
-\chapter{Les technologies de transmissions d'électricité : câblées et sans-fil}
+\chapter{Détails des systemes IPTS}
 \section{Présentation des technologies présentes}
 
 \subsection{Une solution IPTS efficace : Le système de couplage magnétique par résonance (CMRS) \cite{mSojal}}
@@ -252,23 +267,6 @@ Les différentes technologies répondent à une même problématique: transfére
   L'autre systeme IPTS que nous avons étudié est la technologie du KAIST qui présente elle l'avantage par rapport au CMRS d'une dépendance moindre au conditions de l'environement, au détriment d'un rendement encore inférieur , mais cette technologie n'a pas encore pu etre testée, ce qui est dû a sa decouverte tres récente , il y a seulement 1 an.
   
   Ces deux systèmes ont l'avantage de pouvoir être actif sans ligne de vue , tant qu'aucun matériau altérant le champ magnétique produit n'est situé entre l'émetteur et le récepteur , conduisant à une simplification possible du système électrique domestique, où les prises murales aurait disparu et tout les appareils électriques que nous possédons actuellement seraient parfaitement mobiles à l'intérieur de notre espace domestique.
-\section{Technlogies alternatives pour transmetre de l'energie \cite{wiki5}}
-  \subsection{Les lasers}
-\begin{wrapfigure}{r}{0.6\textwidth}
-  \begin{center}
-    \includegraphics[width=0.5\textwidth]{laser}
-  \end{center}
-  \caption{Transmission sur de tres longues distances}
-\end{wrapfigure}Contrairement a l'idée de transmettre de l'électricité directement grâce au champs magnétiques , l'on peut transmettre cette énergie par les lasers  , et la convertir ensuite en électricité par des cellules photovoltaïques , cette technologie à l'avantage majeur de fonctionner sur des distances beaucoup plus grandes , de l'ordre de quelques kilomè tres puisque la dispersion des lasers est moindre et celui ci est uni-directionnel. Le rendement de ce système est aussi légèrement supérieur , puisque la création du lasers est plutôt efficace , et la réception a un rendement de l'ordre de 50\%. Mais ces deux avantages sont compensés par deux inconvénients qui ne gênent pas les champs magnétiques qui sont que cette technologie doit avoir une ligne de vue pour pouvoir fonctionner , et des obstacles comme des arbres qui poussent pourraient interrompre la transmission , et cette dernière peut etre complètement invalidée en cas de pluie ou brouillard.
-    \subsection{Les micros ondes}
-\begin{wrapfigure}{l}{0.4\textwidth}
-  \begin{center}
-    \includegraphics[width=0.3\textwidth]{microwave}
-  \end{center}
-  \caption{Transmission sur de tres longues distances}
-\end{wrapfigure}Dans le même domaine que les lasers l'on peut utiliser les micros-ondes , ce que les hommmes on déjà fait dès les années 1970 à 1990 , qui ont comme avantage d'être bien moins afféctées par les conditions météorologiques , mais ceci est au détriment de la distance , puisque les micros ondes se dispersent beaucoup plus que les lasers , et leurs effets peuvent être plus nocifs sur les êtres humains.
-
-  Néanmoins ces deux techologies sont moins adaptées a un usage domestique puisqu'elles demandent une ligne de vue , mais puisque la seule perte qu'elles subissent dont le réflection et la dispertion , si posssede des antennes très grandes on peut les utiliser pour des transmissions terre-espace.
 \begin{thebibliography}{9}
     
   \bibitem{mSojal}
