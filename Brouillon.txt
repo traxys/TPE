@@ -32,3 +32,9 @@ A)Technologies existantes - bref resumé technique / small pro /cons
 	C) Liste des avantages suivie des limites du syteme technique choisi
 	
 	D) Transmission d'energie ( pas directement d'electricité)
+
+
+experience:
+dans un premier temps, nous nous sommes vu chez Léo Boudoin pour fabriquer les bobines. Pour ça nous avons pris deux tubes faisant office de support, un bobine de fil de 10 m de longf, une batterie de 6 volts et quelques appareils électrique de basse consomation (calculatrices, métronome électrique). 
+Nous avons divisé la bobine de fil en deux parties puis nous avons enroulé le fil sur les deux support. Enfin nous avons reliés une des bonines à labatterie 6 volt et la deuxième respectivement à la calculette puis au métronome. Nous avons rapprochés les bobines pour essayer de transmettre de l'électricité à une distance de 2 centimètres. Rien ne se passe et aucun des appareils ne s'allume. Nous remettons la cause de cette échec sur le fait que nous n'avions pas sassez de puissance et pas un matériel adapté.
+Nous avons recommencés l'exprérience avec le préparateur du labo. Et cete fois ci nous avion du matériel de précision (voltemetre, transformateur, galvanomètre). Nous avons alimeznté le circuit avec un courant de 3 ampère, mais il ne s'est toujopuirs rien passé. Donc nouas avons conclues que l'échec de l'esperience était due au raisons suivante: -des bobines de faibles qualité -un courant de faible fréquence.
